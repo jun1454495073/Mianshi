@@ -1,0 +1,5 @@
+# Mianshi
+阳哥的面试题第二季Demo
+volatileDemo主要是写了Volatile的可见性，不支持原子性以及禁止指令重排
+
+Java8Demo主要是自己复习了一下java8的新特性
